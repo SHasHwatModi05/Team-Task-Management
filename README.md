@@ -1,4 +1,4 @@
-# 🚀 Team Task Manager
+# 🚀 Tasknova
 
 An end-to-end task and project management application that enables teams to efficiently organize workflows, assign responsibilities, and monitor progress.
 Developed with Next.js, MongoDB, and Tailwind CSS, featuring secure authentication and role-based access control.
@@ -10,7 +10,7 @@ Developed with Next.js, MongoDB, and Tailwind CSS, featuring secure authenticati
 
 ## 📌 Overview
 
-Team Task Manager simplifies collaboration between admins and team members by providing a structured workflow:
+Tasknova simplifies collaboration between admins and team members by providing a structured workflow:
 
 - Admins manage projects and assign tasks  
 - Members track and update their work progress  
